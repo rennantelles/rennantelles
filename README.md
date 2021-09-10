@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o Rennan Telles!👋
 
-- 🔭 Futuro desenvolvdor Front-End!
+- 🔭 Futuro desenvolvedor Front-End!
 - 🌱 Estudando JavaScript.
 - 😉 Toda ajuda será bem-vinda!
 -->
