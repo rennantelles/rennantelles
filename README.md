@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Rennan Telles!👋
 
-- 🔭 Futuro dev.Front-End.
-- 🌱 Estudando JavaScipt.
+- 🔭 Futuro desenvolvdor Front-End!
+- 🌱 Estudando JavaScript.
 - 😉 Toda ajuda será bem-vinda!
 -->
  <div>
